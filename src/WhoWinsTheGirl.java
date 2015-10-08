@@ -1,10 +1,11 @@
-import java.util.Scanner;
+
 import java.util.Random;
 public class WhoWinsTheGirl 
 {
+	System.out.println("pull");
 	public static void main(String[] args)
 	{
-	int a,b;
+	
 	
 	Random rn = new Random();
 	int valuem = rn.nextInt(100); 
