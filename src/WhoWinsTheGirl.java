@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 public class WhoWinsTheGirl 
 {
+	//for the pull
 	public static void main(String[] args)
 	{
 	int a,b;
